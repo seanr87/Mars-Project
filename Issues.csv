@@ -1,0 +1,24 @@
+Title,Body,Labels
+"Milestone 1: First Landing and Basic Infrastructure","- [ ] Choose sponsor and commander profile
+- [ ] Pack rocket with essential cargo
+- [ ] Locate optimal landing zone (resources vs. threats)
+- [ ] Land rocket and set up basic power, water, oxygen
+- [ ] Automate resource production with drones","milestone;infrastructure"
+"Milestone 2: Self-Sustaining Dome","- [ ] Build and connect the first dome
+- [ ] Establish reliable life support (water, oxygen, power)
+- [ ] Set up living quarters and resource storage
+- [ ] Recruit first colonists and ensure morale
+- [ ] Monitor and manage dome services (food, medical, recreation)","milestone;colonists"
+"Milestone 3: Colony Expansion","- [ ] Build additional domes for specialized roles
+- [ ] Expand power grids and water supplies
+- [ ] Research advanced tech to support growth
+- [ ] Increase shuttle/transport capacity for resources","milestone;expansion;research"
+"Milestone 4: Terraforming / Late-Game Goals","- [ ] Initiate terraforming efforts (Green Planet expansion)
+- [ ] Launch seed rockets, build vegetation, create lakes
+- [ ] Place forestation plants for atmosphere generation
+- [ ] Consider space mirrors or magnetic shields
+- [ ] Manage large-scale resource logistics","milestone;terraforming;late-game"
+"Milestone 5: Endgame / 'Victory' Conditions","- [ ] Define personal victory goals (1,000 colonists? Full terraforming?)
+- [ ] Complete all mysteries and storyline arcs
+- [ ] Max out technology and research breakthroughs
+- [ ] Ensure long-term colony sustainability","milestone;victory"
