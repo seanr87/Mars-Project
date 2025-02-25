@@ -1,3 +1,5 @@
+# All content was created by ChatGPT o1 with minimal editing
+
 # Mars-Project
 
 This repository is all about planning and organizing a **Surviving Mars** campaign using GitHub’s workflow tools—Issues, Projects (for Gantt timelines), and a Wiki.
